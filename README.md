@@ -1,2 +1,2 @@
 # Language-Translator-app
-Translate into any language
+This translator app helps to translate from one language into any other language. It is developed using HTML, CSS and JS
